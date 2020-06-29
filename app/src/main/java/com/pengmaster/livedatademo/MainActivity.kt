@@ -17,6 +17,9 @@ import com.pengmaster.livedatademo.model.LiveModel
 import com.pengmaster.module_login.ModuleLoginMainActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
+/**
+ *
+ */
 class MainActivity : AppCompatActivity() {
 
 
