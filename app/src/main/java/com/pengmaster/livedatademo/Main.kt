@@ -14,7 +14,6 @@ class Main {
        @JvmStatic
        fun main(args : Array<String>){
 //           net( error = error)
-
            println(result)
 
        }
