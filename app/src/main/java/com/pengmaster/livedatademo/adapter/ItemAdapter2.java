@@ -12,7 +12,7 @@ import java.util.List;
  *     author : Wp
  *     e-mail : 1101313414@qq.com
  *     time   : 2020-06-13 14:01
- *     desc   :
+ *     desc   : ItemAdapter2
  *     version: 1.0
  * </pre>
  */
