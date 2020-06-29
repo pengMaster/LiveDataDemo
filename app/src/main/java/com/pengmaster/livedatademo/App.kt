@@ -18,6 +18,7 @@ class App : Application() {
         app = this
     }
 
+
     companion object{
 
         private lateinit var app : App
