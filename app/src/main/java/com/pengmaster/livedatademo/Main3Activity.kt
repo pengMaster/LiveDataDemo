@@ -8,6 +8,9 @@ import com.chad.library.adapter.base.entity.MultiItemEntity
 import com.pengmaster.livedatademo.adapter.MultiListAdapter
 import kotlinx.android.synthetic.main.activity_main3.*
 
+/**
+ *  列表套列表
+ */
 class Main3Activity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
